@@ -1,0 +1,2 @@
+ProductID,Quantity,Reason
+P103,3,Insufficient stock (requested: 3; available: 2)
